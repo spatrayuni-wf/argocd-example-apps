@@ -1,7 +1,7 @@
 kind: Service
 apiVersion: v1
 metadata:
-  name: preview-service
+  name: nginx-preview-service
 spec:
   ports:
   - port: 80
